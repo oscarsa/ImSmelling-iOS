@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  ImSmelling2
+
+  Created by Óscar Saboya Gómez on 29/04/14.
+  Copyright (c) 2014 OscarSaboya. All rights reserved.
+*/
+
+//¿Es un olor muy fuerte?
+"VERY_FAINT_ODOUR" = "Muy débil";
+"FAINT_ODOUR"   = "Débil";
+"MODERATE_ODOUR" = "Moderado";
+"STRONG_ODOUR"  =   "Fuerte";
+"VERY_STRONG_ODOUR" =   "Muy fuerte";
+"FORTISSIMO_ODOUR"  =   "¡Fortísimo!";
+
+//¿Es un olor agradable?
+"INSUPPORTABLE_ODOUR"   = "¡Insoportable!";
+"VERY_BAD_ODOUR"    =   "Muy malo";
+"ANNOYING_ODOUR"    =   "Molesto";
+"GOOD_ODOUR"    =   "Bueno";
+"WONDERFUL_ODOUR"   =   "¡Maravilloso!";
+
+//¿Cuánto ha durado?
+"LESS_1_MINUTE" =   "< 1 minuto";
+"BETWEEN_1_AND_10_MINUTES"  =   "1-10 minutos";
+"MORE_10_MINUTES"   =   "> 10 minutos";
+
+//Nubosidad
+"SUNNY" =   "Soleado";
+"VERY_FEW_CLOUDS"   =   "Muy pocas nubes";
+"SLIGHTLY_CLOUDY"   =   "Ligeramente nublado";
+"VERY_CLOUDY"   =   "Muy nublado";
+"COMPLETELY_CLOUDY" =   "Totalmente nublado";
+
+//Luvia
+"RAINLESS"  =   "Sin lluvia";
+"FOGGY" =   "Niebla";
+"DRIZZLE"   =   "Chirimiri";
+"RAIN"    =   "Fuerte";
+"HEAVY_RAIN"    =   "Muy fuerte";
+"HUGE_DOWNPOUR" =   "Diluvio";
+
+//Viento
+"WINDLESS"  =   "Sin viento";
+"BREEZE"    =   "Brisa";
+"MODERATE_WIND" =   "Viento moderado";
+"STRONG_WIND"   =   "Viento fuerte";
+"GALE"  =   "Vendaval";
+
+
+//PLISTS
+
+"odourTypesLocalized"   =   "odourTypes_es";
+"agesLocalized" =   "ages_es";
+"genresLocalized"   =   "genres_es";

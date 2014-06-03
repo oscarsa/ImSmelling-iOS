@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Less than 20 years</string>
+	<string>Between 20 and 30 years</string>
+	<string>Between 31 and 40 years</string>
+	<string>Between 41 and 55 years</string>
+	<string>More than 55 years</string>
+</array>
+</plist>

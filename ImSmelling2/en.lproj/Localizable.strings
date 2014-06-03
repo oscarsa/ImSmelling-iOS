@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  ImSmelling2
+
+  Created by Óscar Saboya Gómez on 29/04/14.
+  Copyright (c) 2014 OscarSaboya. All rights reserved.
+*/
+
+//Is it a strong odour?
+"VERY_FAINT_ODOUR" = "Very faint";
+"FAINT_ODOUR"   = "Faint";
+"MODERATE_ODOUR" = "Moderate";
+"STRONG_ODOUR"  =   "Strong";
+"VERY_STRONG_ODOUR" =   "Very strong";
+"FORTISSIMO_ODOUR"  =   "Fortissimo!";
+
+//Is it a pleasant odour?
+"INSUPPORTABLE_ODOUR"   = "Insupportable!";
+"VERY_BAD_ODOUR"    =   "Very bad";
+"ANNOYING_ODOUR"    =   "Annorying";
+"GOOD_ODOUR"    =   "Good";
+"WONDERFUL_ODOUR"   =   "Wonderful!";
+
+//How long has it lasted?
+"LESS_1_MINUTE" =   "< 1 minute";
+"BETWEEN_1_AND_10_MINUTES"  =   "1-10 minutes";
+"MORE_10_MINUTES"   =   "> 10 minutes";
+
+//Clouds
+"SUNNY" =   "Sunny";
+"VERY_FEW_CLOUDS"   =   "Very few clouds";
+"SLIGHTLY_CLOUDY"   =   "Slightly cloudy";
+"VERY_CLOUDY"   =   "Very cloudy";
+"COMPLETELY_CLOUDY" =   "Completely cloudy";
+
+//Rain
+"RAINLESS"  =   "Rainless";
+"FOGGY" =   "Foggy";
+"DRIZZLE"   =   "Drizzle";
+"RAIN"    =   "Rain";
+"HEAVY_RAIN"    =   "Heavy rain";
+"HUGE_DOWNPOUR" =   "Huge downpour";
+
+//Wind
+"WINDLESS"  =   "Windless";
+"BREEZE"    =   "Breeze";
+"MODERATE_WIND" =   "Moderate wind";
+"STRONG_WIND"   =   "Strong wind";
+"GALE"  =   "Gale";
+
+
+
+//PLISTS
+
+"odourTypesLocalized"   =   "odourTypes_en";
+"agesLocalized" =   "ages_en";
+"genresLocalized"   =   "genres_en";

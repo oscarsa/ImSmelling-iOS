@@ -1,0 +1,123 @@
+
+/* Class = "IBUILabel"; text = "1-10 minutos"; ObjectID = "06q-NB-Dhu"; */
+"06q-NB-Dhu.text" = "1-10 minutes";
+
+/* Class = "IBUIButton"; normalTitle = "Acceder"; ObjectID = "2bx-EM-cZb"; */
+"2bx-EM-cZb.normalTitle" = "Log in";
+
+/* Class = "IBUIButton"; normalTitle = "Atras"; ObjectID = "7Gm-96-YT7"; */
+"7Gm-96-YT7.normalTitle" = "Back";
+
+/* Class = "IBUILabel"; text = "LLuvia"; ObjectID = "7SH-6f-lBr"; */
+"7SH-6f-lBr.text" = "Rain";
+
+/* Class = "IBUIButton"; normalTitle = "Login"; ObjectID = "BcJ-GP-qm0"; */
+"BcJ-GP-qm0.normalTitle" = "Login";
+
+/* Class = "IBUIButton"; normalTitle = "Finalizar"; ObjectID = "CAg-8r-68K"; */
+"CAg-8r-68K.normalTitle" = "Finish";
+
+/* Class = "IBUILabel"; text = "Nombre de usuario"; ObjectID = "IZq-ZO-RcX"; */
+"IZq-ZO-RcX.text" = "User name";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "J0G-CI-9Ot"; */
+"J0G-CI-9Ot.text" = "Email";
+
+/* Class = "IBUIButton"; normalTitle = "Volver"; ObjectID = "KNt-Me-xKx"; */
+"KNt-Me-xKx.normalTitle" = "Back";
+
+/* Class = "IBUIButton"; normalTitle = "Continuar registro"; ObjectID = "L6h-mM-H2N"; */
+"L6h-mM-H2N.normalTitle" = "Continue registration";
+
+/* Class = "IBUILabel"; text = "Edad"; ObjectID = "O87-tw-b81"; */
+"O87-tw-b81.text" = "Age";
+
+/* Class = "IBUIButton"; normalTitle = "Finalizar registro"; ObjectID = "OEg-JA-rSG"; */
+"OEg-JA-rSG.normalTitle" = "Finish registration";
+
+/* Class = "IBUILabel"; text = "¿Es un olor muy fuerte?"; ObjectID = "OhY-IX-hJK"; */
+"OhY-IX-hJK.text" = "Is it a strong odour?";
+
+/* Class = "IBUIButton"; normalTitle = "Continuar"; ObjectID = "RbB-T0-Gzp"; */
+"RbB-T0-Gzp.normalTitle" = "Continue";
+
+/* Class = "IBUILabel"; text = "Chirimiri"; ObjectID = "SwA-25-M0n"; */
+"SwA-25-M0n.text" = "Drizzle";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "WAF-Jq-fxx"; */
+"WAF-Jq-fxx.text" = "Email";
+
+/* Class = "IBUILabel"; text = "¿Es un olor agradable?"; ObjectID = "WBP-cx-UGK"; */
+"WBP-cx-UGK.text" = "Is it a pleasant odour?";
+
+/* Class = "IBUILabel"; text = "¿A qué huele?"; ObjectID = "b71-Xe-VeW"; */
+"b71-Xe-VeW.text" = "What does it smell?";
+
+/* Class = "IBUILabel"; text = "¿Cuánto ha durado?"; ObjectID = "cgd-2j-EGx"; */
+"cgd-2j-EGx.text" = "How long has it lasted?";
+
+/* Class = "IBUILabel"; text = "Ligeramente nublado"; ObjectID = "ctv-by-qcl"; */
+"ctv-by-qcl.text" = "Slightly cloudy";
+
+/* Class = "IBUIButton"; normalTitle = "Atrás"; ObjectID = "czY-lv-vjT"; */
+"czY-lv-vjT.normalTitle" = "Back";
+
+/* Class = "IBUILabel"; text = "Contraseña"; ObjectID = "duO-EO-KTv"; */
+"duO-EO-KTv.text" = "Password";
+
+/* Class = "IBUITabBarItem"; title = "Nueva Observación"; ObjectID = "jDN-q8-FyM"; */
+"jDN-q8-FyM.title" = "New Observation";
+
+/* Class = "IBUITextField"; placeholder = "Describe el tipo de olor"; ObjectID = "kbL-Xc-AKR"; */
+"kbL-Xc-AKR.placeholder" = "Describe the type of odour";
+
+/* Class = "IBUIButton"; normalTitle = "Continuar"; ObjectID = "kuN-aR-pgf"; */
+"kuN-aR-pgf.normalTitle" = "Continue";
+
+/* Class = "IBUINavigationItem"; title = "Mapa de olores"; ObjectID = "lXj-Kt-clu"; */
+"lXj-Kt-clu.title" = "Odours Map";
+
+/* Class = "IBUILabel"; text = "Nubosidad"; ObjectID = "n5B-19-c0X"; */
+"n5B-19-c0X.text" = "Clouds";
+
+/* Class = "IBUILabel"; text = "Molesto"; ObjectID = "q1B-6l-cpL"; */
+"q1B-6l-cpL.text" = "Annoying";
+
+/* Class = "IBUILabel"; text = "¿Todavía no estás registrado?"; ObjectID = "qQ5-Fo-Z9u"; */
+"qQ5-Fo-Z9u.text" = "Not registered yet?";
+
+/* Class = "IBUILabel"; text = "Contraseña"; ObjectID = "qrq-Ta-4mQ"; */
+"qrq-Ta-4mQ.text" = "Password";
+
+/* Class = "IBUIButton"; normalTitle = "Registrarme"; ObjectID = "rkH-US-CcI"; */
+"rkH-US-CcI.normalTitle" = "Register";
+
+/* Class = "IBUILabel"; text = "Viento moderado"; ObjectID = "s51-fe-tf5"; */
+"s51-fe-tf5.text" = "Moderate wind";
+
+/* Class = "IBUILabel"; text = "¿De dónde viene el olor?"; ObjectID = "tYh-rd-lA2"; */
+"tYh-rd-lA2.text" = "Where does the odour come from?";
+
+/* Class = "IBUINavigationItem"; title = "Registro"; ObjectID = "wZq-DT-5Kr"; */
+"wZq-DT-5Kr.title" = "Register";
+
+/* Class = "IBUIButton"; normalTitle = "Cancelar"; ObjectID = "wfT-R9-gNd"; */
+"wfT-R9-gNd.normalTitle" = "Cancel";
+
+/* Class = "IBUILabel"; text = "Moderado"; ObjectID = "wl5-ro-tgF"; */
+"wl5-ro-tgF.text" = "Moderate";
+
+/* Class = "IBUITabBarItem"; title = "Mapa"; ObjectID = "xEV-FE-UTb"; */
+"xEV-FE-UTb.title" = "Map";
+
+/* Class = "IBUILabel"; text = "Sexo"; ObjectID = "xLh-Ae-Lfl"; */
+"xLh-Ae-Lfl.text" = "Genre";
+
+/* Class = "IBUINavigationItem"; title = "Nueva Observación"; ObjectID = "zbt-eX-Rw8"; */
+"zbt-eX-Rw8.title" = "New Observation";
+
+/* Class = "IBUILabel"; text = "Viento"; ObjectID = "zfa-gk-Pf6"; */
+"zfa-gk-Pf6.text" = "Wind";
+
+/* Class = "IBUIButton"; normalTitle = "Cancelar"; ObjectID = "zyU-bY-AuS"; */
+"zyU-bY-AuS.normalTitle" = "Cancel";
