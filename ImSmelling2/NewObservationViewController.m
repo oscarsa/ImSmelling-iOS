@@ -134,7 +134,7 @@ NSDictionary *info;
 
 //___________________________________________________________________________________________//
 
-//Return the visible view
+//Return the number of visible view
 - (int) getVisibleView
 {
     if (!Step1.isHidden)

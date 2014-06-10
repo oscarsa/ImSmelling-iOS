@@ -410,7 +410,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="CUU-h4-Igx" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="828" y="-151"/>
+            <point key="canvasLocation" x="828" y="-74"/>
         </scene>
         <!--Login View View Controller-->
         <scene sceneID="9NX-SP-4yy">
@@ -922,7 +922,7 @@
         <simulatedScreenMetrics key="destination"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="ZNT-4v-aLS"/>
+        <segue reference="InX-aY-3Mq"/>
         <segue reference="uI1-t2-Vii"/>
     </inferredMetricsTieBreakers>
 </document>
